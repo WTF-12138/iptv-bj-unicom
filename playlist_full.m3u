@@ -1,5 +1,5 @@
 #EXTM3U
-# 完整版(全部在流,未过滤) · 生成于 2026-08-27 22:58 · 159 台
+# 完整版(全部在流,未过滤) · 生成于 2026-08-27 04:22 · 159 台
 #EXTINF:-1 tvg-chno="1" tvg-name="CCTV-1高清" group-title="央视",CCTV-1高清
 rtp://@239.3.1.129:8008
 #EXTINF:-1 tvg-chno="2" tvg-name="CCTV-2高清" group-title="央视",CCTV-2高清
