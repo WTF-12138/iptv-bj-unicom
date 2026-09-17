@@ -1,5 +1,5 @@
 #EXTM3U
-# 过滤整理版(去购物/去重标清/4K聚合) · 生成于 2026-08-29 14:33 · 142 台
+# 过滤整理版(去购物/去重标清/4K聚合) · 生成于 2026-09-18 04:22 · 143 台
 #EXTINF:-1 tvg-chno="1" tvg-name="CCTV-1高清" group-title="央视",CCTV-1高清
 rtp://@239.3.1.129:8008
 #EXTINF:-1 tvg-chno="2" tvg-name="CCTV-2高清" group-title="央视",CCTV-2高清
@@ -98,6 +98,10 @@ rtp://@239.3.1.210:8056
 rtp://@239.3.1.211:8064
 #EXTINF:-1 tvg-chno="53" tvg-name="黑龙江卫视高清" group-title="卫视",黑龙江卫视高清
 rtp://@239.3.1.133:8016
+#EXTINF:-1 tvg-chno="54" tvg-name="四川卫视高清" group-title="卫视",四川卫视高清
+rtp://@239.3.1.202:8168
+#EXTINF:-1 tvg-chno="412" tvg-name="四川卫视4K超高清" group-title="卫视",四川卫视4K超高清
+rtp://@239.3.1.131:3001
 #EXTINF:-1 tvg-chno="55" tvg-name="贵州卫视高清" group-title="卫视",贵州卫视高清
 rtp://@239.3.1.149:8076
 #EXTINF:-1 tvg-chno="56" tvg-name="东南卫视高清" group-title="卫视",东南卫视高清
@@ -108,6 +112,10 @@ rtp://@239.3.1.122:8160
 rtp://@239.3.1.123:8164
 #EXTINF:-1 tvg-chno="59" tvg-name="河南卫视高清" group-title="卫视",河南卫视高清
 rtp://@239.3.1.50:8184
+#EXTINF:-1 tvg-chno="60" tvg-name="海南卫视高清" group-title="卫视",海南卫视高清
+rtp://@239.3.1.205:8228
+#EXTINF:-1 tvg-chno="61" tvg-name="陕西卫视高清" group-title="卫视",陕西卫视高清
+rtp://@239.3.1.203:8220
 #EXTINF:-1 tvg-chno="62" tvg-name="甘肃卫视高清" group-title="卫视",甘肃卫视高清
 rtp://@239.3.1.201:8180
 #EXTINF:-1 tvg-chno="63" tvg-name="西藏卫视高清" group-title="卫视",西藏卫视高清
@@ -138,6 +146,8 @@ rtp://@239.3.1.148:8072
 rtp://@239.3.1.134:8020
 #EXTINF:-1 tvg-chno="408" tvg-name="深圳卫视4K超高清" group-title="卫视",深圳卫视4K超高清
 rtp://@239.3.1.28:2000
+#EXTINF:-1 tvg-chno="75" tvg-name="内蒙古卫视高清" group-title="卫视",内蒙古卫视高清
+rtp://@239.3.1.204:8224
 #EXTINF:-1 tvg-chno="76" tvg-name="CETV1高清" group-title="其他",CETV1高清
 rtp://@239.3.1.57:8152
 #EXTINF:-1 tvg-chno="77" tvg-name="金鹰纪实高清" group-title="其他",金鹰纪实高清
@@ -154,20 +164,12 @@ rtp://@239.3.1.245:2000
 rtp://@239.3.1.235:8000
 #EXTINF:-1 tvg-chno="139" tvg-name="山东教育" group-title="其他",山东教育
 rtp://@239.3.1.52:4120
-#EXTINF:-1 tvg-chno="412" tvg-name="四川卫视4K超高清" group-title="卫视",四川卫视4K超高清
-rtp://@239.3.1.131:3001
 #EXTINF:-1 tvg-chno="152" tvg-name="广西卫视" group-title="卫视",广西卫视
 rtp://@239.3.1.39:8300
-#EXTINF:-1 tvg-chno="154" tvg-name="陕西卫视" group-title="卫视",陕西卫视
-rtp://@239.3.1.41:8140
 #EXTINF:-1 tvg-chno="155" tvg-name="山西卫视" group-title="卫视",山西卫视
 rtp://@239.3.1.42:8172
-#EXTINF:-1 tvg-chno="156" tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
-rtp://@239.3.1.43:8176
 #EXTINF:-1 tvg-chno="157" tvg-name="青海卫视" group-title="卫视",青海卫视
 rtp://@239.3.1.44:8184
-#EXTINF:-1 tvg-chno="158" tvg-name="海南卫视" group-title="卫视",海南卫视
-rtp://@239.3.1.45:8304
 #EXTINF:-1 tvg-chno="163" tvg-name="三沙卫视" group-title="卫视",三沙卫视
 rtp://@239.3.1.155:4120
 #EXTINF:-1 tvg-chno="164" tvg-name="云南卫视" group-title="卫视",云南卫视
