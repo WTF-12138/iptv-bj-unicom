@@ -1,5 +1,5 @@
 #EXTM3U
-# 过滤整理版(去购物/去重标清/4K聚合) · 生成于 2026-09-18 04:22 · 143 台
+# 过滤整理版(去购物/去重标清/4K聚合) · 生成于 2026-10-24 13:43 · 144 台
 #EXTINF:-1 tvg-chno="1" tvg-name="CCTV-1高清" group-title="央视",CCTV-1高清
 rtp://@239.3.1.129:8008
 #EXTINF:-1 tvg-chno="2" tvg-name="CCTV-2高清" group-title="央视",CCTV-2高清
@@ -150,6 +150,8 @@ rtp://@239.3.1.28:2000
 rtp://@239.3.1.204:8224
 #EXTINF:-1 tvg-chno="76" tvg-name="CETV1高清" group-title="其他",CETV1高清
 rtp://@239.3.1.57:8152
+#EXTINF:-1 tvg-chno="77" tvg-name="金鹰纪实高清" group-title="其他",金鹰纪实高清
+rtp://@239.3.1.58:8156
 #EXTINF:-1 tvg-chno="77" tvg-name="金鹰纪实高清" group-title="其他",金鹰纪实高清
 rtp://@239.3.1.58:8156
 #EXTINF:-1 tvg-chno="78" tvg-name="吉林卫视高清" group-title="卫视",吉林卫视高清
