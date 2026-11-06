@@ -1,5 +1,5 @@
 #EXTM3U
-# 完整版(全部在流,未过滤) · 生成于 2026-10-24 14:29 · 162 台
+# 完整版(全部在流,未过滤) · 生成于 2026-11-07 04:22 · 163 台
 #EXTINF:-1 tvg-chno="1" tvg-name="CCTV-1高清" group-title="央视",CCTV-1高清
 rtp://@239.3.1.129:8008
 #EXTINF:-1 tvg-chno="2" tvg-name="CCTV-2高清" group-title="央视",CCTV-2高清
@@ -154,6 +154,8 @@ rtp://@239.3.1.24:8001
 rtp://@239.3.1.22:8001
 #EXTINF:-1 tvg-chno="85" tvg-name="CCTV4K超高清" group-title="央视",CCTV4K超高清
 rtp://@239.3.1.245:2000
+#EXTINF:-1 tvg-chno="86" tvg-name="CCTV-16 4K超高清" group-title="央视",CCTV-16 4K超高清
+rtp://@239.3.1.206:8001
 #EXTINF:-1 tvg-chno="121" tvg-name="BRTV北京卫视" group-title="卫视",BRTV北京卫视
 rtp://@239.3.1.225:8000
 #EXTINF:-1 tvg-chno="122" tvg-name="BRTV文艺" group-title="北京",BRTV文艺
