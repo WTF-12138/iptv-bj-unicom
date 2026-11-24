@@ -1,7 +1,9 @@
 #EXTM3U
-# 完整版(全部在流,未过滤) · 生成于 2026-11-24 08:51 · 154 台
+# 完整版(全部在流,未过滤) · 生成于 2026-11-24 08:57 · 163 台
 #EXTINF:-1 tvg-id="00000001000000050000000000000152" tvg-chno="1" tvg-name="CCTV-1高清" group-title="央视",CCTV-1高清
 rtp://@239.3.1.129:8008
+#EXTINF:-1 tvg-id="00000001000000050000000000000477" tvg-chno="2" tvg-name="CCTV-2高清" group-title="央视",CCTV-2高清
+rtp://@239.3.1.60:8084
 #EXTINF:-1 tvg-id="01010001000000050000000000000370" tvg-chno="3" tvg-name="CCTV-3高清" group-title="央视",CCTV-3高清
 rtp://@239.3.1.172:8001
 #EXTINF:-1 tvg-id="00000001000000050000000000000573" tvg-chno="4" tvg-name="CCTV-4高清" group-title="央视",CCTV-4高清
@@ -12,6 +14,8 @@ rtp://@239.3.1.173:8001
 rtp://@239.3.1.174:8001
 #EXTINF:-1 tvg-id="00000001000000050000000000000485" tvg-chno="7" tvg-name="CCTV-7高清" group-title="央视",CCTV-7高清
 rtp://@239.3.1.61:8104
+#EXTINF:-1 tvg-id="01010001000000050000000000000375" tvg-chno="8" tvg-name="CCTV-8高清" group-title="央视",CCTV-8高清
+rtp://@239.3.1.175:8001
 #EXTINF:-1 tvg-id="00000001000000050000000000000478" tvg-chno="9" tvg-name="CCTV-9高清" group-title="央视",CCTV-9高清
 rtp://@239.3.1.62:8112
 #EXTINF:-1 tvg-id="00000001000000050000000000000480" tvg-chno="10" tvg-name="CCTV-10高清" group-title="央视",CCTV-10高清
@@ -32,6 +36,8 @@ rtp://@239.3.1.184:8001
 rtp://@239.3.1.151:8144
 #EXTINF:-1 tvg-id="00000001000000050000000000000153" tvg-chno="18" tvg-name="CCTV-5+" group-title="央视",CCTV-5+
 rtp://@239.3.1.130:8004
+#EXTINF:-1 tvg-id="01010001000000050000000000000384" tvg-chno="19" tvg-name="聚鲨环球精选" group-title="其他",聚鲨环球精选
+rtp://@239.3.1.179:8001
 #EXTINF:-1 tvg-id="01010001000000050000000000000437" tvg-chno="20" tvg-name="央广购物" group-title="其他",央广购物
 rtp://@239.3.1.222:8001
 #EXTINF:-1 tvg-id="01010001000000050000000000000021" tvg-chno="21" tvg-name="BRTV北京卫视高清" group-title="卫视",BRTV北京卫视高清
@@ -64,8 +70,12 @@ rtp://@239.3.1.250:8001
 rtp://@239.3.1.100:8001
 #EXTINF:-1 tvg-id="01010001000000050000000000000014" tvg-chno="40" tvg-name="4K超清" group-title="其他",4K超清
 rtp://@239.3.1.249:8001
+#EXTINF:-1 tvg-id="00000001000000050000000000000195" tvg-chno="41" tvg-name="湖南卫视高清" group-title="卫视",湖南卫视高清
+rtp://@239.3.1.132:8012
 #EXTINF:-1 tvg-id="01010001000000050000000000000443" tvg-chno="42" tvg-name="家有购物" group-title="其他",家有购物
 rtp://@239.3.1.185:8001
+#EXTINF:-1 tvg-id="01010001000000050000000000000438" tvg-chno="43" tvg-name="央广购物精选" group-title="其他",央广购物精选
+rtp://@239.3.1.223:8001
 #EXTINF:-1 tvg-id="00000001000000050000000000000198" tvg-chno="44" tvg-name="江苏卫视高清" group-title="卫视",江苏卫视高清
 rtp://@239.3.1.135:8028
 #EXTINF:-1 tvg-id="00005000000000000000000000000263" tvg-chno="45" tvg-name="东方卫视高清" group-title="卫视",东方卫视高清
@@ -148,10 +158,16 @@ rtp://@239.3.1.245:2000
 rtp://@239.3.1.206:8001
 #EXTINF:-1 tvg-id="01010001000000050000000000000001" tvg-chno="121" tvg-name="BRTV北京卫视" group-title="卫视",BRTV北京卫视
 rtp://@239.3.1.225:8000
+#EXTINF:-1 tvg-id="01010001000000050000000000000002" tvg-chno="122" tvg-name="BRTV文艺" group-title="北京",BRTV文艺
+rtp://@239.3.1.226:8000
 #EXTINF:-1 tvg-id="01010001000000050000000000000003" tvg-chno="123" tvg-name="BRTV纪实科教" group-title="北京",BRTV纪实科教
 rtp://@239.3.1.227:8000
 #EXTINF:-1 tvg-id="01010001000000050000000000000004" tvg-chno="124" tvg-name="BRTV影视" group-title="北京",BRTV影视
 rtp://@239.3.1.228:8000
+#EXTINF:-1 tvg-id="01010001000000050000000000000005" tvg-chno="125" tvg-name="BRTV财经" group-title="北京",BRTV财经
+rtp://@239.3.1.229:8000
+#EXTINF:-1 tvg-id="01010001000000050000000000000007" tvg-chno="127" tvg-name="BRTV生活" group-title="北京",BRTV生活
+rtp://@239.3.1.231:8000
 #EXTINF:-1 tvg-id="01010001000000050000000000000010" tvg-chno="128" tvg-name="BRTV卡酷少儿" group-title="北京",BRTV卡酷少儿
 rtp://@239.3.1.234:8000
 #EXTINF:-1 tvg-id="01010001000000050000000000000009" tvg-chno="129" tvg-name="BRTV新闻" group-title="北京",BRTV新闻
@@ -306,5 +322,7 @@ rtp://@239.3.1.144:3005
 rtp://@239.3.1.131:3001
 #EXTINF:-1 tvg-id="01010001000000050000000000005492" tvg-chno="421" tvg-name="BRTV北京卫视超高清HDR" group-title="卫视",BRTV北京卫视超高清HDR
 rtp://@239.3.1.118:8001
+#EXTINF:-1 tvg-id="01010001000000050000000000000127" tvg-chno="502" tvg-name="VBR测试-2" group-title="其他",VBR测试-2
+rtp://@239.3.1.140:8001
 #EXTINF:-1 tvg-id="01010001000000050000000000000126" tvg-chno="515" tvg-name="VBR测试-1" group-title="其他",VBR测试-1
 rtp://@239.3.1.139:8001
